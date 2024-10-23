@@ -20,9 +20,9 @@ Go to the project directory
   cd my-project
 ```
 
-## Website Overview
+<!-- ## Website Overview
 
-![App Screenshot](https://i.postimg.cc/Y0cFcVfk/127-0-0-1-5500-index-html.png)
+![App Screenshot](https://i.postimg.cc/Y0cFcVfk/127-0-0-1-5500-index-html.png) -->
 
 <!-- ## Synapse 1.0 Ticket
 
