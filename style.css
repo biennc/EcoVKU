@@ -148,6 +148,7 @@ header .navbar a:hover {
 
 .icons-container .icons {
   width: 30rem;
+  height: 40rem;
   margin: 1rem;
   padding: 2rem 1rem;
   border-radius: 0.5rem;
@@ -159,6 +160,7 @@ header .navbar a:hover {
 
 .icons-container .pics {
   width: 30rem;
+  height: 40rem;
   margin: 1rem;
   padding: 2rem 1rem;
   border-radius: 0.5rem;
@@ -200,13 +202,15 @@ header .navbar a:hover {
 .icons-container .icons p {
   font-size: 1.3rem;
   color: #999;
-  padding: 1rem 0;
+  padding: 2rem 0;
+  height: 12rem;
 }
 
 .icons-container .pics p {
   font-size: 1.3rem;
   color: #999;
-  padding: 1rem 0;
+  padding: 2rem 0;
+  height: 12rem;
 }
 
 .project .box-container {
